@@ -4,7 +4,7 @@ class Imagemagick < Formula
   homepage 'http://www.imagemagick.org'
 
   url 'http://www.imagemagick.org/download/releases/ImageMagick-6.7.5-10.tar.xz'
-  sha256 '85b0f9afe122c52a821001976a4f54ae011bb3d94a87b97e3112e515185731ad'
+  sha256 '5016dcc7f6d386d8e5321f25bd09cef8519da851e809be6f0cb2321d7218790c'
 
   head 'https://www.imagemagick.org/subversion/ImageMagick/trunk',
     :using => UnsafeSubversionDownloadStrategy
